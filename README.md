@@ -3,3 +3,5 @@ Football, also known as soccer in some regions, stands as the world's most popul
 Its popularity transcends cultural, linguistic, and geographical boundaries, creating a universal language that unites people from diverse backgrounds. The sheer thrill of the game, coupled with the strategic interplay of offense and defense, fosters a sense of camaraderie and competition that resonates with fans worldwide.
 
 Beyond the thrill of gaming, this project aims to bridge the gap between virtual and real-world sports analysis. It's a testament to the power of data in uncovering trends, informing strategies, and enhancing the overall gaming experience.
+
+![Uploading image.png…]()
